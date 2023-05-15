@@ -10,3 +10,14 @@ The first model is contain two different algorithm
 1- LightLGB
 
 2- Ridge
+
+> without using Optimization and Feature Selection (LOFO)
+
+## Model_2
+The second model is contain two different algorithm
+
+1- LightLGB
+
+2- Ridge
+
+> with Optimization and Feature Selection (LOFO)
